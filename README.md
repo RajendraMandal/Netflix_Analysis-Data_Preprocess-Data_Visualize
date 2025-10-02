@@ -3,6 +3,7 @@
 Q1: What is the most frequent genre in the dataset?
 
 Drama genre is the most frequent genre in our dataset and has appeared more than 14% of the times among 19 other genres.
+![image alt](https://github.com/RajendraMandal/Netflix_Analysis-Data_Preprocess-Data_Visualize/blob/main/Genre_Column_Distribution.png?raw=true)
 
 Q2: What genres has highest votes ?
 
